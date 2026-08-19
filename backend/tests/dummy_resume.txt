@@ -1,0 +1,22 @@
+John Doe
+Full Stack Software Engineer
+Email: john.doe@example.com
+Phone: (555) 019-2834
+Website: github.com/johndoe
+
+Summary:
+Experienced Full Stack Developer with 5+ years of experience building scalable web applications. Proficient in React, Node.js, Python, and SQL database design.
+
+Experience:
+Senior Software Engineer at TechCorp (2023 - Present)
+- Designed and built a microservices architecture using FastAPI and React.
+- Improved database query performance by 40% through indexes and schema refactoring.
+
+Software Engineer at DevStudio (2021 - 2023)
+- Built responsive user interfaces using React and Tailwind CSS.
+- Maintained REST APIs in Express.js.
+
+Skills:
+Frontend: React, TypeScript, HTML, CSS, Tailwind
+Backend: Python, Node.js, FastAPI, PostgreSQL
+Tools: Git, Docker, AWS
