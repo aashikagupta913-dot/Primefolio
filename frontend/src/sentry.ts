@@ -22,4 +22,7 @@ export const initSentry = () => {
     replaysSessionSampleRate: 0.1, // Replay 10% of sessions
     replaysOnErrorSampleRate: 1.0, // Replay 100% of sessions with errors
   });
+
+  // Temporary verification event
+  Sentry.captureMessage("Primefolio verification test");
 };
